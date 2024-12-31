@@ -3,7 +3,7 @@ I am deeply passionate about cybersecurity and thrive on addressing complex chal
 
 ## ⚠️ Vulnerability Management Projects
 
-<img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%">
+<img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
