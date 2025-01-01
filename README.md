@@ -4,7 +4,7 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 <img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
 
-- **[Vulnerability Management Program Implementation](https://github.com/frankjohnson-cyber/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/frankjohnson-cyber/vulnerability-management-program-implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/frankjohnson-cyber/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
