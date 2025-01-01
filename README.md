@@ -1,6 +1,5 @@
 # <a href="https://www.linkedin.com/in/security101/">Frank Johnson's</a> Cybersecurity Project Portfolio 🔐
-I am deeply passionate about cybersecurity and thrive on addressing complex challenges through hands-on projects. These initiatives, ranging from vulnerability management to threat detection, enable me to engage deeply with the dynamic and rapidly evolving field of cybersecurity. I invite you to explore these projects to gain insight into the work I have undertaken to enhance security operations and processes.
-
+I am dedicated to tackling complex challenges in cybersecurity through hands-on projects. From vulnerability management to threat detection, my work reflects a deep engagement with the dynamic and rapidly evolving cybersecurity landscape. I invite you to explore my projects to see how I have contributed to enhancing security operations and processes.
 ## ⚠️ Vulnerability Management Projects
 
 <img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
