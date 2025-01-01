@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/security101/">Frank Johnson's</a> IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/security101/">Frank Johnson's</a> Cybersecurity Project Portfolio 🔐
 I am deeply passionate about cybersecurity and thrive on addressing complex challenges through hands-on projects. These initiatives, ranging from vulnerability management to threat detection, enable me to engage deeply with the dynamic and rapidly evolving field of cybersecurity. I invite you to explore these projects to gain insight into the work I have undertaken to enhance security operations and processes.
 
 ## ⚠️ Vulnerability Management Projects
