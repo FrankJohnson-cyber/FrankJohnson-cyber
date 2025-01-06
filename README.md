@@ -12,8 +12,39 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**
   
 <hr/>
+## About Me
 
-## 🤳 Connect With Me
+- 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
+- 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
+- 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
+
+## Certifications
+
+### 🛡️ CompTIA Security+
+[![CompTIA Security+](https://img.shields.io/badge/Certification-Security%2B-blue)](https://www.credly.com/badges/your-security+-certification-id)
+
+### 🔒 CompTIA CySA+ (Expected 03/2025)
+
+## Experience
+
+### Cybersecurity Support Analyst (Vulnerability Management & SecOps Intern)  
+**Log(N) Pacific**  
+- Conducted vulnerability scans and automated remediations to mitigate critical, high, and medium vulnerabilities.  
+- Performed secure configuration audits using Tenable.io and automated compliance processes with PowerShell.  
+- Threat hunting expertise: detected IoCs for brute force attacks, ransomware, and data exfiltration.  
+- Built custom detection rules in Microsoft Defender for Endpoint and monitored malicious traffic in Microsoft Sentinel.  
+- Experienced with **KQL**, **Tenable.io**, and **Azure VMs**.  
+
+## Education
+
+- **B.S. Cybersecurity and Information Assurance**  
+  Western Governors University (Expected 2025)
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/cybersecurity101)  
+[![GitHub](https://img.shields.io/badge/GitHub-FrankJohnson--cyber-lightgrey)](https://github.com/FrankJohnson-cyber)  
+[![Email](https://img.shields.io/badge/Email-FRANKJSEC%40gmail.com-red)](mailto:FRANKJSEC@gmail.com)
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
