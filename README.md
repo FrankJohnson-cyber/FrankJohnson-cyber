@@ -12,11 +12,12 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**
   
 <hr/>
-## About Me ##
+
+## About Me
+
 - 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
 - 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
 - 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
-
 ## Certifications
 
 ### 🛡️ CompTIA Security+
