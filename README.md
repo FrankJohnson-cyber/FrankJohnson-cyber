@@ -26,7 +26,7 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 - **B.S. Cybersecurity and Information Assurance**  
   Western Governors University (Expected 2025)
-
+<hr/>
 ## ⚠️ Vulnerability Management Projects
 
 <img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
