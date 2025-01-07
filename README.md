@@ -12,7 +12,7 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**
-  
+
 <hr/>
 
 ⚠️ **Playbooks**
@@ -54,7 +54,9 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/cybersecurity101)  
-[![GitHub](https://img.shields.io/badge/GitHub-FrankJohnson--cyber-lightgrey)](https://github.com/FrankJohnson-cyber)  
-[![Email](https://img.shields.io/badge/Email-FRANKJSEC%40gmail.com-red)](mailto:FRANKJSEC@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/cybersecurity101) [![GitHub](https://img.shields.io/badge/GitHub-FrankJohnson--cyber-lightgrey?logo=github)](https://github.com/FrankJohnson-cyber) [![Email](https://img.shields.io/badge/Email-FRANKJSEC%40gmail.com-red?logo=gmail)](mailto:FRANKJSEC@gmail.com) [![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch)](https://www.twitch.tv/chesscoachnet) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/chesscoachnet)
+
+## Tools
+
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?logo=wireshark&logoColor=white&style=flat)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat)](https://www.splunk.com/) [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/powershell/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)](https://www.gnu.org/software/bash/) [![Tenable](https://img.shields.io/badge/-Tenable-0082FC?logo=tenable&logoColor=white&style=flat)](https://www.tenable.com/) [![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)](https://azure.microsoft.com/en-us/)
