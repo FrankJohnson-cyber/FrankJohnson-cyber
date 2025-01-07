@@ -6,6 +6,27 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/cybersecurity101) [![GitHub](https://img.shields.io/badge/GitHub-FrankJohnson--cyber-lightgrey?logo=github)](https://github.com/FrankJohnson-cyber) [![Email](https://img.shields.io/badge/Email-FRANKJSEC%40gmail.com-red?logo=gmail)](mailto:FRANKJSEC@gmail.com) [![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch)](https://www.twitch.tv/chesscoachnet) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/chesscoachnet)
 
+## About Me
+
+- 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
+- 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
+- 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
+
+## Experience
+
+### Cybersecurity Support Analyst (Vulnerability Management & SecOps Intern)  
+**Log(N) Pacific**  
+- Conducted vulnerability scans and automated remediations to mitigate critical, high, and medium vulnerabilities.  
+- Performed secure configuration audits using Tenable.io and automated compliance processes with PowerShell.  
+- Threat hunting expertise: detected IoCs for brute force attacks, ransomware, and data exfiltration.  
+- Built custom detection rules in Microsoft Defender for Endpoint and monitored malicious traffic in Microsoft Sentinel.  
+- Experienced with **KQL**, **Tenable.io**, and **Azure VMs**.  
+
+## Education
+
+- **B.S. Cybersecurity and Information Assurance**  
+  Western Governors University (Expected 2025)
+
 ## ⚠️ Vulnerability Management Projects
 
 <img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
@@ -28,33 +49,12 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 <hr/>
 
-## About Me
-
-- 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
-- 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
-- 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
-
 ## Certifications
 
 ### 🛡️ CompTIA Security+
 [![CompTIA Security+](https://img.shields.io/badge/Certification-Security%2B-blue)](https://www.credly.com/badges/your-security+-certification-id)
 
 ### 🔒 CompTIA CySA+ (Expected 03/2025)
-
-## Experience
-
-### Cybersecurity Support Analyst (Vulnerability Management & SecOps Intern)  
-**Log(N) Pacific**  
-- Conducted vulnerability scans and automated remediations to mitigate critical, high, and medium vulnerabilities.  
-- Performed secure configuration audits using Tenable.io and automated compliance processes with PowerShell.  
-- Threat hunting expertise: detected IoCs for brute force attacks, ransomware, and data exfiltration.  
-- Built custom detection rules in Microsoft Defender for Endpoint and monitored malicious traffic in Microsoft Sentinel.  
-- Experienced with **KQL**, **Tenable.io**, and **Azure VMs**.  
-
-## Education
-
-- **B.S. Cybersecurity and Information Assurance**  
-  Western Governors University (Expected 2025)
 
 ## Tools
 
