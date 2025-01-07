@@ -16,7 +16,7 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 ⚠️ **Playbooks**
 
 - [Phishing Email Alerts Playbook](https://github.com/FrankJohnson-cyber/Phishing-Email-Alert-Playbook)
-
+- [Malware Investigation Playbook](https://github.com/FrankJohnson-cyber/Malware-Investigation)
 <hr/>
 ## About Me
 
