@@ -12,8 +12,11 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**
   
 <hr/>
-⚠️ Playbooks
-- **[Phishing Email Alerts Playbook](https://github.com/FrankJohnson-cyber/Phishing-Email-Alert-Playbook)**
+
+⚠️ **Playbooks**
+
+- [Phishing Email Alerts Playbook](https://github.com/FrankJohnson-cyber/Phishing-Email-Alert-Playbook)
+
 <hr/>
 ## About Me
 
