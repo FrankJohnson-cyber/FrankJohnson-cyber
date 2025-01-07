@@ -2,6 +2,10 @@
 
 I am dedicated to tackling complex challenges in cybersecurity through hands-on projects. From vulnerability management to threat detection, my work reflects a deep engagement with the dynamic and rapidly evolving cybersecurity landscape. I invite you to explore my projects to see how I have contributed to enhancing security operations and processes.
 
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/cybersecurity101) [![GitHub](https://img.shields.io/badge/GitHub-FrankJohnson--cyber-lightgrey?logo=github)](https://github.com/FrankJohnson-cyber) [![Email](https://img.shields.io/badge/Email-FRANKJSEC%40gmail.com-red?logo=gmail)](mailto:FRANKJSEC@gmail.com) [![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch)](https://www.twitch.tv/chesscoachnet) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/chesscoachnet)
+
 ## ⚠️ Vulnerability Management Projects
 
 <img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
@@ -51,11 +55,6 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 - **B.S. Cybersecurity and Information Assurance**  
   Western Governors University (Expected 2025)
-
-## Let's Connect
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/cybersecurity101) [![GitHub](https://img.shields.io/badge/GitHub-FrankJohnson--cyber-lightgrey?logo=github)](https://github.com/FrankJohnson-cyber) [![Email](https://img.shields.io/badge/Email-FRANKJSEC%40gmail.com-red?logo=gmail)](mailto:FRANKJSEC@gmail.com) [![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch)](https://www.twitch.tv/chesscoachnet) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/chesscoachnet)
 
 ## Tools
 
