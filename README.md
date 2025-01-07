@@ -17,7 +17,7 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 - [Phishing Email Alerts Playbook](https://github.com/FrankJohnson-cyber/Phishing-Email-Alert-Playbook)
 - [Malware Investigation Playbook](https://github.com/FrankJohnson-cyber/Malware-Investigation)
-<hr/>
+- [Brute Force Analysis Playbook](https://github.com/FrankJohnson-cyber/Brute-Force-Analysis)<hr/>
 ## About Me
 
 - 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
