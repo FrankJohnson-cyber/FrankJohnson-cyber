@@ -53,9 +53,9 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 ## Certifications
 
-### 🛡️ CompTIA Security+
-[![CompTIA Security+](https://img.shields.io/badge/Certification-Security%2B-blue)](https://www.credly.com/badges/your-security+-certification-id)
 
+### 🛡️ CompTIA Security+
+[![CompTIA Security+](https://img.shields.io/badge/Certification-Security%2B-blue)](https://www.credly.com/badges/eb668a6e-07f8-4401-b7dd-256d0649fab8/public_url)
 ### 🔒 CompTIA CySA+ (Expected 03/2025)
 
 ## Tools
