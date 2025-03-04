@@ -53,7 +53,8 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 ## Certifications
 
-
+### 🛡️ ISO/IEC 27001:2022 Lead Auditor  
+[![ISO/IEC 27001:2022 Lead Auditor](https://img.shields.io/badge/Certification-ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-blue)](https://www.credly.com/badges/4045c671-c708-4602-91ce-10cbbcf04a33/public_url)
 ### 🛡️ CompTIA Security+
 [![CompTIA Security+](https://img.shields.io/badge/Certification-Security%2B-blue)](https://www.credly.com/badges/eb668a6e-07f8-4401-b7dd-256d0649fab8/public_url)
 ### 🔒 CompTIA CySA+ (Expected 03/2025)
