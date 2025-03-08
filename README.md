@@ -41,13 +41,11 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**
 
 <hr/>
-
 ## 🐍 Python Projects
 
-- **[Job Tracker](https://github.com/FrankJohnson-cyber/job-tracker)**  
+- **[Job Hunt Tracker](https://github.com/FrankJohnson-cyber/job_hunt_tracker)**  
   A GUI-based tool built with Python and `tkinter` to manage job applications. Features include multi-line fields for job descriptions and interview questions, checkboxes for status tracking, and Excel output.
-
-  <hr/>
+<hr/>
 
 ⚠️ **Playbooks**
 
