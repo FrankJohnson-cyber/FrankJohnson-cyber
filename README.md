@@ -42,6 +42,13 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 <hr/>
 
+## 🐍 Python Projects
+
+- **[Job Tracker](https://github.com/FrankJohnson-cyber/job-tracker)**  
+  A GUI-based tool built with Python and `tkinter` to manage job applications. Features include multi-line fields for job descriptions and interview questions, checkboxes for status tracking, and Excel output.
+
+  <hr/>
+
 ⚠️ **Playbooks**
 
 - [Phishing Email Alerts Playbook](https://github.com/FrankJohnson-cyber/Phishing-Email-Alert-Playbook)
