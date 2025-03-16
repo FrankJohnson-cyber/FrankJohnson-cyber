@@ -41,7 +41,8 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**  
 - **[Incident Response Plan](https://github.com/FrankJohnson-cyber/incident-response-plan)**  
   A comprehensive plan for managing cybersecurity incidents, leveraging SOC experience with tools like Microsoft Sentinel and Wireshark. Includes tailored playbooks for malware and network breaches.
-
+- **[Email Phishing Traffic Analysis with Wireshark](https://github.com/FrankJohnson-cyber/phishing-traffic-analysis)**  
+  Simulated and analyzed a phishing email campaign using Wireshark, identifying SMTP spoofing and malicious HTTP traffic. Documented IOCs and response steps in a SOC playbook.
 <hr/>
 
 ## 🐍 Python Projects
