@@ -38,14 +38,17 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/FrankJohnson-cyber/threat-hunting-tor2)**  
+- **[Incident Response Plan](https://github.com/FrankJohnson-cyber/incident-response-plan)**  
+  A comprehensive plan for managing cybersecurity incidents, leveraging SOC experience with tools like Microsoft Sentinel and Wireshark. Includes tailored playbooks for malware and network breaches.
 
 <hr/>
 
- ## 🐍 Python Projects
+## 🐍 Python Projects
 
 - **[Job Hunt Tracker](https://github.com/FrankJohnson-cyber/job_hunt_tracker)**  
   A GUI-based tool built with Python and `tkinter` to manage job applications. Features include multi-line fields for job descriptions and interview questions, checkboxes for status tracking, and Excel output.
+
 <hr/>
 
 ⚠️ **Playbooks**
