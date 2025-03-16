@@ -71,6 +71,9 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 ### 🔒 CompTIA CySA+  
 [![CompTIA CySA+](https://img.shields.io/badge/Certification-CySA%2B-blue)](https://www.credly.com/badges/578cf8cb-fc6a-458f-aa77-f5c50524dfd2/public_url)
 
+### 🔒 CompTIA Security Analytics Professional (CSAP)  
+[![CompTIA CSAP](https://img.shields.io/badge/Certification-CSAP-blue)](https://www.credly.com/badges/571b01d0-56d5-4690-9f24-c6cacb5614b2/public_url)
+
 ## Tools
 
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?logo=wireshark&logoColor=white&style=flat)](https://www.wireshark.org/) [![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat)](https://www.splunk.com/) [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/powershell/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)](https://www.gnu.org/software/bash/) [![Tenable](https://img.shields.io/badge/-Tenable-0082FC?logo=tenable&logoColor=white&style=flat)](https://www.tenable.com/) [![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)](https://azure.microsoft.com/en-us/)
