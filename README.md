@@ -48,7 +48,10 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 - **[Network Traffic Anomaly Detection with KQL](https://github.com/FrankJohnson-cyber/network-anomaly-kql)**  
   Analyzed Azure network logs with KQL to detect unusual outbound traffic, identifying a source sending >10MB to 10 unique IPs in 7 days.
 - **[Suspicious File Download Detection with KQL](https://github.com/FrankJohnson-cyber/suspicious-file-download-kql)**  
-  Used KQL on SecurityEvent logs to detect rare executable downloads from unusual parent processes, enhancing endpoint threat detection.<hr/>
+  Used KQL on SecurityEvent logs to detect rare executable downloads from unusual parent processes, enhancing endpoint threat detection.
+- **[Suspicious Sign-In Detection with Azure AD SigninLogs](https://github.com/FrankJohnson-cyber/suspicious-signin-kql)**  
+  Analyzed Azure AD sign-in logs with KQL to detect suspicious activity, such as impossible travel and high failed login counts.
+  <hr/>
 
 ## 🐍 Python Projects
 
