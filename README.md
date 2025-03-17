@@ -47,7 +47,8 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
   Detected potential brute-force activity in Azure logs using KQL, analyzing caller behavior with detailed record insights.
 - **[Network Traffic Anomaly Detection with KQL](https://github.com/FrankJohnson-cyber/network-anomaly-kql)**  
   Analyzed Azure network logs with KQL to detect unusual outbound traffic, identifying a source sending >10MB to 10 unique IPs in 7 days.
-<hr/>
+- **[Suspicious File Download Detection with KQL](https://github.com/FrankJohnson-cyber/suspicious-file-download-kql)**  
+  Used KQL on SecurityEvent logs to detect rare executable downloads from unusual parent processes, enhancing endpoint threat detection.<hr/>
 
 ## 🐍 Python Projects
 
