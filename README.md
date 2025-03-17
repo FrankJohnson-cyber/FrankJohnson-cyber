@@ -43,6 +43,8 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
   A comprehensive plan for managing cybersecurity incidents, leveraging SOC experience with tools like Microsoft Sentinel and Wireshark. Includes tailored playbooks for malware and network breaches.
 - **[Email Phishing Traffic Analysis with Wireshark](https://github.com/FrankJohnson-cyber/phishing-traffic-analysis)**  
   Simulated and analyzed a phishing email campaign using Wireshark, identifying SMTP spoofing and malicious HTTP traffic. Documented IOCs and response steps in a SOC playbook.
+- **[Brute-Force Detection in Azure Activity with KQL](https://github.com/FrankJohnson-cyber/azure-brute-force-kql)**  
+  Detected potential brute-force activity in Azure logs using KQL, analyzing caller behavior with detailed record insights.  
 <hr/>
 
 ## 🐍 Python Projects
