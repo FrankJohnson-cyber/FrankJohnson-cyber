@@ -8,9 +8,17 @@ I am dedicated to tackling complex challenges in cybersecurity through hands-on 
 
 ## About Me
 
-- 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
-- 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
-- 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
+🔐 **Cybersecurity Analyst**: With over two years as a Systems Administrator, I’m seasoned in vulnerability management, risk assessments, and incident response. Recently, I tackled a live internal brute-force attack (March 17-18, 2025), using Microsoft Sentinel to pinpoint 9 incidents—including one with 210 login attempts (200 failed)—showcasing my knack for securing networks under pressure. My CompTIA CSAP | CySA+ certification fuels my drive to identify and neutralize threats effectively.
+
+🤖 **AI Integration Enthusiast**: I’m all about harnessing AI to supercharge cybersecurity. From crafting KQL queries to automate threat detection—like my Sentinel rules—to exploring AI for anomaly spotting, I’m keen on blending smart tech into robust security frameworks that save time and boost precision.
+
+🖥️ **Linux Administrator**: I’m proficient in secure configuration and compliance audits on Linux systems. Whether it’s scripting for automation, locking down servers, or ensuring audit compliance, I bring a meticulous, hands-on approach to keeping environments safe and standards-ready.
+
+🌐 **Network and Project Advocate**: I thrive at the intersection of network support and project execution. My GitHub reflects this—configuring endpoint monitoring with `DeviceNetworkEvents` and managing detection projects from start to finish, complete with visuals like my bar chart of 200 failed logins. I love turning data into actionable insights.
+
+🏥 **Mission-Driven**: I’m passionate about using tech to protect what matters—especially in spaces where reliable systems support health and safety. Securing networks that keep critical services running is what gets me out of bed.
+
+Outside the command line, I’m tinkering with new tools, prepping for my next certification, or polishing my GitHub projects. I’m always up for a challenge—let’s connect if you’re into solving tough cybersecurity puzzles!
 
 ## Experience
 
