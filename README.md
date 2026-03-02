@@ -49,7 +49,7 @@ Outside tech, I’m sharpening my skills, chasing certifications, or refining my
   <img src="https://img.shields.io/badge/AI-Security%20Projects-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-**[messageFrank](https://github.com/FrankJohnson-cyber/messageFrank)**
+- **[messageFrank](https://github.com/FrankJohnson-cyber/messageFrank)**
 Designed and developed an AI-assisted messaging and secure interaction application for structured communication workflows.
 
 - AI-driven message handling
