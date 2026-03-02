@@ -82,6 +82,7 @@ Outside tech, I’m sharpening my skills, chasing certifications, or refining my
 - 🛡️ [CompTIA Security+](https://www.credly.com/badges/eb668a6e-07f8-4401-b7dd-256d0649fab8/public_url)
 - 🔒 [CompTIA CySA+](https://www.credly.com/badges/578cf8cb-fc6a-458f-aa77-f5c50524dfd2/public_url)
 - 🔒 [CompTIA CSAP](https://www.credly.com/badges/571b01d0-56d5-4690-9f24-c6cacb5614b2/public_url)
+- 🔒 [CompTIA Linux+](https://www.credly.com/badges/7b244312-0401-47c1-b8a6-485dd72cc876)
 
 ## Tools
 
