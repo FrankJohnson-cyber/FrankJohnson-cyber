@@ -22,7 +22,7 @@ Outside tech, I’m sharpening my skills, chasing certifications, or refining my
 
 ---
 
-## 🗂️ Project Management Experience
+## 🗂️ Project Experience
 
 ### Brute-Force Attack Response (March 2025)
 - **Role:** Project Lead
