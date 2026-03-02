@@ -45,7 +45,9 @@ Outside tech, I’m sharpening my skills, chasing certifications, or refining my
 ---
 ## 🤖 AI Security & Automation Projects
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*8lFhX3UQvFJ4dWcQG2sF7A.png" alt="AI Security Graphic" width="25%" style="pointer-events: none;">
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-Security%20Projects-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 - **[FJ-RangeFinder](https://github.com/FrankJohnson-cyber/FJ-RangeFinder)**  
   Designed and developed an AI-assisted reconnaissance and attack surface discovery tool for controlled lab environments.  
