@@ -43,6 +43,25 @@ Outside tech, I’m sharpening my skills, chasing certifications, or refining my
 - **Outcome:** Enhanced team efficiency—see [Brute Force Analysis Playbook](https://github.com/FrankJohnson-cyber/Brute-Force-Analysis).
 
 ---
+## 🤖 AI Security & Automation Projects
+
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*8lFhX3UQvFJ4dWcQG2sF7A.png" alt="AI Security Graphic" width="25%" style="pointer-events: none;">
+
+- **[FJ-RangeFinder](https://github.com/FrankJohnson-cyber/FJ-RangeFinder)**  
+  Designed and developed an AI-assisted reconnaissance and attack surface discovery tool for controlled lab environments.  
+  - Automated enumeration workflows  
+  - Structured recon data collection  
+  - Built for modular AI-driven expansion  
+
+- **AI-Enhanced Threat Query Development**  
+  Applied AI-assisted query optimization techniques to refine KQL detection logic in Microsoft Sentinel environments.  
+  - Improved detection accuracy  
+  - Reduced false positives  
+  - Accelerated investigation timelines  
+
+- **Security Workflow Automation Experiments**  
+  Exploring AI integration for SOC documentation, playbook drafting, and investigation acceleration.
+---
 
 ## ⚠️ Vulnerability Management Projects
 
